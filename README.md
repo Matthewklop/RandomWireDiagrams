@@ -3,3 +3,6 @@ esp32 / esp32e to i2s MIC for WLED
 ![image](https://github.com/user-attachments/assets/2c3eedc4-4148-4280-a580-a14cee1b00a1)
 Female USB solder addon to pi w 2 Zero 
 ![image](https://github.com/user-attachments/assets/a97ab638-7ad2-422e-8d2c-948c31f19730)
+ender3 cri-216v10
+24p flexible flat cable FFC pinout 
+![image](https://github.com/user-attachments/assets/7576a9e7-d1d2-4b6d-a07c-cf7dafcbf7d5)
