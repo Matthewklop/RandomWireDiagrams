@@ -6,3 +6,5 @@ Female USB solder addon to pi w 2 Zero
 ender3 cri-216v10
 24p flexible flat cable FFC pinout 
 ![image](https://github.com/user-attachments/assets/7576a9e7-d1d2-4b6d-a07c-cf7dafcbf7d5)
+pi w 2 back vs front wire diagram pi DIO number board too
+![image](https://github.com/user-attachments/assets/cb3af0a6-647f-42f2-9150-3d3ee03bac9e)
