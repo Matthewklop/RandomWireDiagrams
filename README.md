@@ -10,3 +10,6 @@ pi w 2 back vs front wire diagram pi DIO number board too
 ![image](https://github.com/user-attachments/assets/cb3af0a6-647f-42f2-9150-3d3ee03bac9e)
 https://www.cnx-software.com/wp-content/uploads/2022/01/Raspberry-Pi-Zero-2-W-Test-Pad.png
 ![image](https://github.com/user-attachments/assets/2363e2b9-b821-457e-9b41-27d61fde8b68)
+3d  printer delta
+![image](https://github.com/user-attachments/assets/529e3154-0077-4215-a957-f131e7123249)
+
