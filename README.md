@@ -13,3 +13,7 @@ https://www.cnx-software.com/wp-content/uploads/2022/01/Raspberry-Pi-Zero-2-W-Te
 3d  printer delta
 ![image](https://github.com/user-attachments/assets/529e3154-0077-4215-a957-f131e7123249)
 
+![image](https://github.com/user-attachments/assets/f47329a7-3835-46bd-9520-b197845de640)
+![image](https://github.com/user-attachments/assets/2a94d08c-0502-4c92-bc0f-8bdde362afa3)
+![image](https://github.com/user-attachments/assets/b8f03814-926c-48bd-b1aa-57fe237604e0)
+![image](https://github.com/user-attachments/assets/c973988d-da2e-41db-92e3-240c3079e00f)
